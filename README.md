@@ -54,11 +54,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-Employee Data
+### Employee Data
 
 ![Screenshot 2025-02-27 151110](https://github.com/user-attachments/assets/6e8ec40f-b08c-4d5a-8b69-f86c8b505231)
 
-Weather Data
+### Weather Data
 
 ![Screenshot 2025-02-27 151239](https://github.com/user-attachments/assets/a12ff8fc-9e32-488a-b3dc-b7bac390f710)
 
@@ -82,12 +82,12 @@ Weather Data
 
 ### OUTPUT:
 
-Employee Data
+### Employee Data
 
 ![Screenshot 2025-02-27 152241](https://github.com/user-attachments/assets/b39579b6-ab95-4072-99fa-f60b29658f71)
 
 
-Weather Data
+### Weather Data
 
 ![Screenshot 2025-02-27 151820](https://github.com/user-attachments/assets/8a48fc0e-38c0-4479-8ac3-cc34a7c11c82)
 
@@ -110,11 +110,11 @@ Weather Data
 
 ### OUTPUT:
 
-Employee Data
+### Employee Data
 
 ![Screenshot 2025-02-27 152347](https://github.com/user-attachments/assets/6ca2cd9f-fd01-4249-b53f-427e8bc149df)
 
-Weather Data
+### Weather Data
 
 ![Screenshot 2025-02-27 152006](https://github.com/user-attachments/assets/f69dbba1-d3af-45cd-800e-ec574ef6868e)
 
@@ -134,11 +134,11 @@ Weather Data
 
 ### OUTPUT:
 
-Employee Data
+### Employee Data
 
 ![Screenshot 2025-02-27 152422](https://github.com/user-attachments/assets/25325714-75a7-47df-8e6a-f6acca23a52d)
 
-Weather Data
+### Weather Data
 
 ![Screenshot 2025-02-27 152120](https://github.com/user-attachments/assets/1385d959-106f-4fc8-97a6-a77f0159bc27)
 
